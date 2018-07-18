@@ -1,10 +1,6 @@
 # upassAutomator
 
-The web-scraping API being used here is Selenium.  Note that to have a simulated browser open, you need a webdriver.  (For Google Chrome click here).  If you don’t want a web browser open, use PhantomJS webkit.
-
-
 The script automates the process of renewing U-Pass for SFU. 
-
 An automated script run the automated process, in the Windows Task Scheduler. Every time the computer turns on, and internet connection is available, the script performs the auto-renewal.
 
 Making the script Compatible for other Greater Vancouver universities (UBC)
@@ -16,5 +12,5 @@ Making the script Compatible for other Greater Vancouver universities (UBC)
 # Requirements:
 1. Python installed on your device
 2. Webdriver
-	a) To have a simulated browser open. Check the link for chrome
-	b) If you don’t want a web browser open, use PhantomJS webkit.
+  a) To have a simulated browser open. Check the link for chrome
+  b) If you don’t want a web browser open, use PhantomJS webkit.
