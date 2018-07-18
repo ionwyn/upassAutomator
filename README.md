@@ -11,6 +11,4 @@ Making the script Compatible for other Greater Vancouver universities (UBC)
 
 # Requirements:
 1. Python installed on your device
-2. Webdriver
-  1. To have a simulated browser open.
-  2. If you don’t want a web browser open, use PhantomJS webkit.
+2. Webdriver, to have a simulated browser open. If you don’t want a web browser open, use PhantomJS webkit.
